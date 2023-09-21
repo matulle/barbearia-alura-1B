@@ -1,4 +1,9 @@
-p {
-text-align: center;
+body {
+    background: #cccc;
 }
-
+p {
+    text-align: center;
+}
+em strong {
+    color: rgb(186, 45, 199);
+}
